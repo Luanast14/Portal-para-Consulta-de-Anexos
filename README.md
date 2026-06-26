@@ -8,5 +8,5 @@ Nesta página é possível consultar os seguintes documentos:
 - InfoMap Budget;
 - Matriz de Gestão de Risco;
 - Esquema de Reestruturação do servidor (especificamente da pasta 14_REL_AP_pdf);
-- Os ficheiros Excel produzidos pelos códigos Python;
+- Os ficheiros Excel produzidos;
 - Os Indicadores e KPIs propostos.
