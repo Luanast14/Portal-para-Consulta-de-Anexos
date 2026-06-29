@@ -9,5 +9,6 @@ Nesta página é possível consultar os seguintes documentos:
 - Matriz de Gestão de Risco;
 - Esquema de Reestruturação do servidor (especificamente da pasta 14_REL_AP_pdf);
 - Os ficheiros Excel produzidos;
+- Os códigos Python;
 - Os ficheiros dos códigos Pyrhon;
 - Os Indicadores e KPIs propostos.
